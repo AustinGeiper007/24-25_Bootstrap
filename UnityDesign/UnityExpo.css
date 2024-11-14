@@ -2,7 +2,7 @@
     color: #ffffff;
 }
 
-.bg {
+.bg-main {
     background: #7E3428;
     background: -moz-linear-gradient(top, #7E3428 0%, #000000 100%);
     background: -webkit-linear-gradient(top, #7E3428 0%, #000000 100%);
@@ -11,4 +11,36 @@
 
 #logo {
     height: 50px;
+}
+
+.bg-nav {
+    background: #000000;
+    background: -moz-linear-gradient(top, #000000 0%, #121414 50%, #323232 100%);
+    background: -webkit-linear-gradient(top, #000000 0%, #121414 50%, #323232 100%);
+    background: linear-gradient(to bottom, #000000 0%, #121414 50%, #323232 100%);
+}
+
+h1 {
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-size: 56px;
+    letter-spacing: 0px;
+    word-spacing: 3px;
+    color: #FFFFFF;
+    font-weight: 700;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: small-caps;
+    text-transform: none;
+}
+
+h2 {
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    letter-spacing: 0px;
+    word-spacing: 3px;
+    color: #FFFFFF;
+    font-weight: 500;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: small-caps;
+    text-transform: none;
 }
