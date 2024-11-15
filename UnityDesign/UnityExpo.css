@@ -20,6 +20,14 @@
     background: linear-gradient(to bottom, #000000 0%, #121414 50%, #323232 100%);
 }
 
+.bg-footer {
+    background: #2A3030;
+}
+
+.footer-txt {
+    color: #ffffff;
+}
+
 h1 {
     font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
     font-size: 56px;
